@@ -1,0 +1,9 @@
+# Campus Wire 
+
+CampusWire is a campus management web application designed to help students stay informed and connected to their academic and co-curricular activities. The app provides core functionalities such as connecting with programs, accessing important campus information like events and schedules on the newsfeed, following interests, and calendar integration. 
+
+## Description
+
+Students face challenges with communication at school due to reliance on email and WhatsApp messages. Email inboxes are often cluttered with irrelevant or lengthy announcements, making important information easy to miss. On WhatsApp, communication is dependent on class representatives, leading to delays or forgotten messages. As a result, many students miss out on opportunities and events because information is not distributed in an accessible and timely manner. An informal study conducted by one of our group members revealed that students find it tedious to sift through irrelevant emails, making communication ineffective. Additionally, there have been instances where activities occurred without proper information being shared. Clubs and sports face similar issues, as their annual promotions may not reach interested students. The challenge is to create a mobile communication system that allows students to easily access relevant information without feeling overwhelmed. 
+
+The solution is to create a functional web application that gathers all the information about campus events, club activities, and ongoing projects in one place. The app will send clear notifications and allow students to quickly find events that match their interests. It will include a calendar of upcoming events and let users customize what they want to see. By simplifying the way students receive information, the app will help boost engagement and make it easier for them to stay informed about what’s happening on campus. 
